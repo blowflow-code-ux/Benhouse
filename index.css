@@ -1,0 +1,22 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    /* overflow: hidden; */
+}
+
+.BG{
+    overflow-y: scroll;
+    width:100vw;
+    height:100vh;
+    /* background-image: url('Benhouse_page.jpg'); */
+    /* background-size: cover;  */
+    /* background-position: center; */
+}
+
+.BG img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
